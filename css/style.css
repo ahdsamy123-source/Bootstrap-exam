@@ -1249,6 +1249,8 @@ hr {
     }
      #home .col {
         width: 100%;
+                padding-top: 60px;
+
     }
 
     #home .col h1 {
@@ -1314,6 +1316,8 @@ hr {
     }
      #home .col {
         width: 100%;
+                padding-top: 60px;
+
     }
 
     #home .col h1 {
@@ -1378,6 +1382,7 @@ hr {
     }
      #home .col {
         width: 100%;
+        padding-top: 60px;
     }
 
     #home .col h1 {
